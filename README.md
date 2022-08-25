@@ -5,7 +5,7 @@ Hi 👋 My name is Ashish Raut
 Aspiring Full-Stack-Web Developer | Learning MERN Stack at @FunctionUp.
 
 * 🌍  I'm based in Nagpur,Maharastra
-* ✉️  You can contact me at [nikeshborkar008@gmail.comm](mailto:ashishraut000@gmail.comm)
+* ✉️  You can contact me at [ashishraut000@gmail.comm](mailto:ashishraut000@gmail.comm)
 
 
 
